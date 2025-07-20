@@ -38,10 +38,3 @@ An AI-driven customer record matcher designed for **Group Purchasing Organizatio
 
 ---
 
-## Setup Instructions
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/gpo-matcher.git
-cd gpo-matcher
